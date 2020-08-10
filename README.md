@@ -4,11 +4,10 @@ this is based cut-fruit code
     <img width="400px" src="https://github.com/Drinkwang/drinkwang.github.io/blob/master/img/git.png?raw=true">    
 </p>
 
+代码由于年久失修，所以存在许多坑点，包括许多不规范命名，慎重使用，但如果有对原理相关感兴趣，可以私聊我
 
 
 
-
-![beget.png](https://upload-images.jianshu.io/upload_images/13871785-dad9e5e1060ec40d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Authors
 
