@@ -8,7 +8,6 @@ this is based cut-fruit code
 
 
 
-```
 ![beget.png](https://upload-images.jianshu.io/upload_images/13871785-dad9e5e1060ec40d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Authors
