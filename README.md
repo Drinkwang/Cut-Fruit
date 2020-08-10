@@ -12,7 +12,7 @@ this is based cut-fruit code
 ## Authors
 
 * **junkeD·wang** - [Github](https://github.com/Drinkwang)
-<br>![https://github.com/Drinkwang/drinkwang.github.io/blob/master/img/bzhan.png?raw=true](https://space.bilibili.com/13061595)  
+<br>![https://raw.githubusercontent.com/Drinkwang/drinkwang.github.io/master/img/bzhan.png](https://space.bilibili.com/13061595)  
 
 ## License
 
